@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+
+}
+.meanTable table{
+  margin:0 auto;
+  text-align:center;
+}
+.meanTable{
+  padding:20px;
+}
+table {
+  border-collapse: collapse;
+}
+
+td,
+th {
+  border: 1px solid black;
+  padding: 8px;
+}
+h2{
+  text-align: center;
+}

@@ -1,0 +1,17 @@
+# Ignore Visual Studio Code settings folder
+.vscode/
+
+# Ignore Visual Studio Code workspace file
+*.code-workspace
+
+# Ignore Visual Studio Code project-specific files
+.project
+.settings/
+*.launch
+
+# Ignore Visual Studio Code user-specific files
+.settings.json
+.code-snippets
+
+# Ignore Node.js dependencies
+node_modules/
